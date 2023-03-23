@@ -13,7 +13,7 @@ For example, data from February and March can be used to predict purchases in Ap
 ### Data:
 
 - csn, date, salesqty, price/unit, article_id
-- We have total of 5 months of txn data
+- We have total of 5 months of transaction data
 
 
 ### Feature Engineering:
